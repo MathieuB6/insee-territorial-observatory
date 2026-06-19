@@ -1,0 +1,20 @@
+# Identifiants locaux / fichiers sensibles
+config/connexion_postgres_locale.R
+.Renviron
+
+# Données brutes trop lourdes
+data/raw/*
+!data/raw/.gitkeep
+!data/raw/README.md
+
+# Fichiers R locaux
+.Rhistory
+.RData
+.Rproj.user/
+
+# Fichiers temporaires
+*.tmp
+*.log
+~$*
+.DS_Store
+Thumbs.db
