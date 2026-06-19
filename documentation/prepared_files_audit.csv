@@ -1,0 +1,8 @@
+file_name;nb_rows;nb_columns;has_codgeo;nb_codgeo_distinct;nb_codgeo_missing;nb_duplicate_codgeo
+cc_population_2022.csv;34903;27;TRUE;34903;0;0
+cc_emploi_2022.csv;34903;61;TRUE;34903;0;0
+cc_diplome_2022.csv;34903;35;TRUE;34903;0;0
+cc_logement_2022.csv;34903;57;TRUE;34903;0;0
+cc_menages_familles_2022.csv;34903;91;TRUE;34903;0;0
+cc_caracteristiques_emploi_2022.csv;34903;50;TRUE;34903;0;0
+cc_revenu_com_2021.csv;34804;21;TRUE;34804;0;0
