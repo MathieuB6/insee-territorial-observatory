@@ -1,0 +1,7 @@
+typologie_commune;nb_communes;population_2022;population_moyenne;score_fragilite_moyen;score_attractivite_moyen;taux_chomage_moyen;revenu_median_moyen;part_diplomes_superieur_moyenne;part_logements_vacants_moyenne;part_60_ans_plus_moyenne
+Commune intermédiaire;23181;21418023;924;21,74;21,22;8,37;23295,79;26,14;8,11;28,83
+Commune vieillissante; 3223;1540002;478;44,46;18,86;7,94;22349,70;24,22;8,40;42,74
+Commune fragile; 3220;2748679;854;75,98;10,58;13,16;19939,65;18,27;13,57;40,14
+Commune résidentielle favorisée; 2538;2641194;1041;7,05;70,76;5,24;27486,11;38,53;4,42;26,70
+Pôle urbain / pôle d'emploi; 2363;38238241;16182;34,89;37,01;11,68;23158,30;30,36;7,95;29,44
+Commune dynamique / attractive;  279;499691;1791;14,39;69,37;6,47;25613,42;36,73;4,06;26,88
