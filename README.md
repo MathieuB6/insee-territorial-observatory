@@ -68,7 +68,6 @@ insee-territorial-observatory-sql/
 │   ├── 03_final_views/
 │   ├── 04_scoring_typology/
 │   ├── 05_analysis_queries/
-│   └── 06_screenshots/
 ├── .gitignore
 └── README.md
 ```
